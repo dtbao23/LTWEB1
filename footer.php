@@ -1,0 +1,1 @@
+<div><small>&copy; 2020 Thai Bao <small></div>
